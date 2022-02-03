@@ -37,9 +37,11 @@ An in-depth paragraph about your project and overview of use.
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
+````
 ```bash
 pip install foobar
 ```
+````
 
 ## Usage
 
